@@ -1,12 +1,12 @@
 {
-  "name": "node-token-based-authentication",
+  "name": "Full Restaurant Sysytem using ML",
   "version": "1.0.0",
-  "description": "A node token token-based user authentication REST API",
+  "description": "A node Full Restaurant Sysytem using ML Backend",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Digamber",
+  "author": "A.L.A",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
